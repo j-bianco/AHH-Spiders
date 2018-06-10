@@ -1,0 +1,25 @@
+{
+  "name": "ahh-spiders",
+  "version": "1.0.0",
+  "description": "Identify that scary spider",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-bianco/AHH-Spiders.git"
+  },
+  "author": "John Bianco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abianco3/AHH-Spiders/issues"
+  },
+  "homepage": "https://github.com/abianco3/AHH-Spiders#readme"
+}
